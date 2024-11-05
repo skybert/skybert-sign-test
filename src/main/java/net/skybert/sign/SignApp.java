@@ -26,7 +26,7 @@ import java.util.Base64;
  * $ openssl rsa -pubout -in private-key.pem -out public-key.pem
  * </pre>
  *
- * @author <a href="mailto:tkj@stibodx.com">Torstein Krause Johansen</a>
+ * @author <a href="mailto:torstein@skybert.net">Torstein Krause Johansen</a>
  */
 public class SignApp {
 
